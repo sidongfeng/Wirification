@@ -89,9 +89,9 @@ Specify the specific model session, chechepoch and checkpoint, e.g., SESSION=1, 
 Below are some detection results:
 
 <div style="color:#0000FF" align="center">
-<img src="figures/posResult1.png" width="330"/> 
-<img src="figures/posResult2.png" width="330"/>
-<img src="figures/posResult3.png" width="330"/>
+<img src="figures/posResult1.png" width="230"/> 
+<img src="figures/posResult2.png" width="230"/>
+<img src="figures/posResult3.png" width="230"/>
 </div>
 
 ## Authorship
