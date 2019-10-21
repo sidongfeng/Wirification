@@ -93,11 +93,13 @@ Below are some detection results:
 This project is contributed by [Sidong Feng](https://github.com/u6063820).
 
 <!-- ## Citation
-
     @article{jjfaster2rcnn,
         Author = {Jianwei Yang and Jiasen Lu and Dhruv Batra and Devi Parikh},
         Title = {A Faster Pytorch Implementation of Faster R-CNN},
         Journal = {https://github.com/jwyang/faster-rcnn.pytorch},
         Year = {2017}
-    }
- -->
+    } -->
+
+
+## License
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
