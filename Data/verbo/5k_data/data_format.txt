@@ -1,0 +1,12 @@
+## train_data_path.json
+format:
+{'verbo1':
+	{
+	 'app_name1': ['S_1.xml', 'S_34.xml', ...],
+	 'app_name2': [...],
+	 ...,
+ 	},
+ 'verbo2': {...},
+ 'verbo3': {...},
+}
+
