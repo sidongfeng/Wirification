@@ -12,15 +12,9 @@ This project is a pytorch implementation to wirify components in app runtime GUI
 
 ## Preparation
 
-
 First of all, clone the code
 ```
 git clone https://github.com/u6063820/Wireframe.git
-```
-
-Then, create a folder:
-```
-cd faster-rcnn.pytorch && mkdir data
 ```
 
 ### prerequisites
